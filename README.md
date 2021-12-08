@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reethuanand
-- 👀 I’m interested in Data analytics
+- 👀 I’m interested in Bioinformatics and  Data Science
 - 🌱 I’m currently upskilling myself in ML and DL
 - 💞️ I’m looking to collaborate on research and developement
 - 📫 How to reach me reethuanandsha@gmail.com
